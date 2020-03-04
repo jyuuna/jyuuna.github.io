@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyuuna.github.io</id>
     <title>派珞蒙TRPG</title>
-    <updated>2020-03-04T14:04:44.284Z</updated>
+    <updated>2020-03-04T14:05:43.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jyuuna.github.io"/>
     <link rel="self" href="https://jyuuna.github.io/atom.xml"/>
@@ -16,8 +16,12 @@
         <link href="https://jyuuna.github.io/post/guan-yu-ben-gui-ze/">
         </link>
         <updated>2020-03-03T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>这是一个叫做派珞蒙的魔法的世界，只不过现在出了点小问题——有些不懂魔法的人太聪明了！于是，蒸汽动力取代了魔法，派珞蒙世界进入了工业时代。
-在派珞蒙，你们可以扮演幽居在小巷里的魔法使，也可以是工业大学毕业的新人技师，创建侦探事务所，或者当个探险家前往新大陆，一切皆有可能.一切都取决于你们。</code></pre>
+        <content type="html"><![CDATA[<p>这是一个叫做派珞蒙的魔法的世界，只不过现在出了点小问题——<br>
+那些不懂魔法的人太聪明了！<br>
+于是，蒸汽动力取代了魔法，派珞蒙世界进入了工业时代。<br>
+在派珞蒙，你们可以扮演幽居在小巷里的魔法使，也可以是工业大学毕业的新人技师，<br>
+创建侦探事务所，或者当个探险家前往新大陆，<br>
+一切皆有可能.一切都取决于你们。</p>
 ]]></content>
     </entry>
 </feed>
