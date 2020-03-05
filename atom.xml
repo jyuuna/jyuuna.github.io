@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jyuuna.github.io/?tdsourcetag=s_pcqq_aiomsg</id>
     <title>派珞蒙TRPG</title>
-    <updated>2020-03-05T01:36:14.970Z</updated>
+    <updated>2020-03-05T01:45:33.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jyuuna.github.io/?tdsourcetag=s_pcqq_aiomsg"/>
     <link rel="self" href="https://jyuuna.github.io?tdsourcetag=s_pcqq_aiomsg/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://jyuuna.github.io?tdsourcetag=s_pcqq_aiomsg/images/avatar.png</logo>
     <icon>https://jyuuna.github.io?tdsourcetag=s_pcqq_aiomsg/favicon.ico</icon>
     <rights>All rights reserved 2020, 派珞蒙TRPG</rights>
-    <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://jyuuna.github.io?tdsourcetag=s_pcqq_aiomsg/post/ce-shi/</id>
-        <link href="https://jyuuna.github.io?tdsourcetag=s_pcqq_aiomsg/post/ce-shi/">
-        </link>
-        <updated>2020-03-04T15:45:23.000Z</updated>
-        <content type="html"><![CDATA[<p>无内容测试</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关于派珞蒙TRPG]]></title>
         <id>https://jyuuna.github.io?tdsourcetag=s_pcqq_aiomsg/post/guan-yu-ben-gui-ze/</id>
